@@ -7,6 +7,7 @@ Bit Degree Front-end Academy Css Sprint 5 project.
 # Built With
 
 - FrontEnd
+    - [HTML 5]
     - [Css 3 (Flexbox + Css Grid)]
     - [FontAwesome 5]
 
