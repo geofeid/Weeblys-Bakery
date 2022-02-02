@@ -1,7 +1,7 @@
 # Weeblys Bakery
 A Concept of a local bakery story Web Page. Users can be informed about the bakery, the products and the team behind it.
 
-Bit Degree Front-end Academy Css Sprint 6 project.
+Bit Degree Front-end Academy Css Sprint 5 project.
 
 
 # Built With
